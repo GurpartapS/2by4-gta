@@ -1808,19 +1808,12 @@ span.input-group-addon i {
 	}
 	
 }
-	
-header .fa{
-	font-size:70%;
-	
-		color:#ffffff;
-		margin-left:10px;
-}
 	header button{
 		height:40px;padding:5px;font-size:80%; background:none;border:2px solid white;color:white;
 	}
 @media screen and (max-width: 480px)  {
    #fh5co-home .row{
-		margin-top:-25%;
+		margin-top:-85%;
 	}
 	header button{
 		color:grey;
