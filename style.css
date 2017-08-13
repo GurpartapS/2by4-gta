@@ -1786,6 +1786,9 @@ span.input-group-addon i {
 		padding-top:5%;
 		
 	}
+	#fh5co-home{
+		background-image: url(images/01.jpg);
+	}
 @media screen and (max-width: 480px) {
   .col-xxs-12 {
     float: none;
