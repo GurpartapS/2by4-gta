@@ -1822,9 +1822,7 @@ header .fa{
 	#fh5co-home .gradient{
 		background:#27cbff;
 	}
-	#fh5co-home .row .icon{
-		font-size:20px;
-	}
+	
 	#fh5co-home h2{
 		color:white;
 	}
